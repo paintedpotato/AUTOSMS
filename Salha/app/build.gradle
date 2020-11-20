@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29    // 5/12/19: 21 to 26
+    buildToolsVersion '29.0.2' // 5/12/19: .0 changed to .3; 17/12/19 1:34am: 26 changed to 25
+
+    defaultConfig {
+        applicationId "com.example.sawe.salha"
+        minSdkVersion 15
+        targetSdkVersion 29 // 5/12/19: google play requires min tversion to be 26 or higher (changed from 21)
+                            // 7/12/19 1am: 26 to 29
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.0' // 5/12/19: alpha1 to beta1
+    /*implementation 'com.android.support:appcompat-v7:21.0.3'
+    implementation 'com.android.support:appcompat-v7:21.0.2'
+    implementation 'com.android.support:appcompat-v7:21.0.0'*/
+}

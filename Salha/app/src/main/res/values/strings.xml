@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Salha</string>
+    <string name="hello_world">Let the app now take over from you in replying to your SMSes. Only a
+    few SMSes have built-in replies, later versions will allow for all kinds of dialogue. SMSes such
+    as: hi, hey, How are you?, How\'s everything? - all case sensitive will be responded to.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inbox">InboxActivity</string>
+    <string name="buttonStop">Stop</string>
+    <string name="buttonStart">Start</string>
+
+</resources>

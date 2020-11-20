@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sawe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2_6e0c2ca67d89946cb1fd48d2d3379fb746b0055b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sawe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_6e0c2ca67d89946cb1fd48d2d3379fb746b0055b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sawe\.android\build-cache\97f62321c14f65700b03ed85bbd4394ae8f3d3b7\output\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2_e52c9a3855793c31481f19455a545f37565b000e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sawe\.android\build-cache\5f02edc0f4f83e290fb78fc6becd6822f9f8f167\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb31e8a5bff46e540891a691567e23a5d6f6e644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d69ef4fac7b678d1efad81288ee8818a659ac58">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ba0e04a2316e159b3e55187af50ef052147fe21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sawe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2_6e0c2ca67d89946cb1fd48d2d3379fb746b0055b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_847f5f6d68d7c3756d9a48c0570aed64ff6c9ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sawe\.android\build-cache\97f62321c14f65700b03ed85bbd4394ae8f3d3b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82439d89f8b018d12b8642122c30d1b269b9d857\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sawe\.android\build-cache\5f02edc0f4f83e290fb78fc6becd6822f9f8f167\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\pre-dexed\debug\classes_fb31e8a5bff46e540891a691567e23a5d6f6e644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sawe\.android\build-cache\97f62321c14f65700b03ed85bbd4394ae8f3d3b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\pre-dexed\debug\classes_82439d89f8b018d12b8642122c30d1b269b9d857.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sawe\.android\build-cache\97f62321c14f65700b03ed85bbd4394ae8f3d3b7\output\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Sawe\AndroidStudioProjects\Salha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_e52c9a3855793c31481f19455a545f37565b000e\classes.dex" />
+    </item>
+
+</items>

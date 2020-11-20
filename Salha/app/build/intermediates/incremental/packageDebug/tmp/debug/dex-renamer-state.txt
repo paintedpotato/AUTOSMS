@@ -1,0 +1,4 @@
+#Fri Nov 20 11:56:52 EAT 2020
+base.0=D\:\\ImptStuff\\Downloads\\2-6-20 conv stuff\\Apps\\Salha-20191204T160618Z-001\\Salha\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
